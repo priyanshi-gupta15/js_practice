@@ -1,3 +1,4 @@
+//que =>Write a function to find the largest number in an array.
 let arr = [2,3,14,5,8];
 let max = Number.MIN_VALUE;
 for (let i = 0; i < arr.length; i++) {

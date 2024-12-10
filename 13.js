@@ -1,3 +1,4 @@
+//que=> Use filter to create an array of only the positive numbers from a mixed array.
 let arr = [-1,3,4,5,-4,6,7,-2]
 let newarr = arr.filter(myFunction)
 

@@ -1,3 +1,5 @@
+//que => Write a function that checks if a string is a palindrome.
+
 let str = "13131"
 let arr = str.split("")
 let s=0;

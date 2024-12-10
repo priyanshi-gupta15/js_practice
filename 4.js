@@ -1,3 +1,5 @@
+//que=> Create a switch statement that assigns different activities for each day of the week.
+
 let str ="sunday";
 
 switch (str) {

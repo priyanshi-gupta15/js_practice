@@ -1,3 +1,5 @@
+// que => Write a program that checks if a number is even or odd.
+
 let a=11;
 
 {

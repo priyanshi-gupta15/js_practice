@@ -1,3 +1,4 @@
+//que=>Write a function that calculates the factorial of a number using recursion.
 
 console.log(fac(0));
 

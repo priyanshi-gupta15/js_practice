@@ -1,4 +1,5 @@
- let a = 9 ;
+//que =>Create a variable with each primitive data type in JavaScript (string, number, boolean, null, undefined, symbol, bigint). Log each type to the console using typeof.
+let a = 9 ;
 console.log(typeof(a));
 let str = "priyanshi"
 console.log(typeof(str));
