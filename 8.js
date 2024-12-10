@@ -1,3 +1,4 @@
+//que=>Create an array of objects, each representing a student with properties like name, age, and grade. Write a function to filter students who have a grade above 80.
 
 let obj_arr = [ 
     { "name" :"priyanshi",

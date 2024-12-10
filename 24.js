@@ -1,3 +1,5 @@
+//que =>Implement a function that filters out numbers less than 10 from an array using the .filter() method.Write a function to reverse a given string.
+
 let str = "how are you";
 let reversedStr ="";
 reverse(str,reversedStr);
